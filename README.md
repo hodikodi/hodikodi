@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hodikodi
-- 👀 I’m interested in data visualization using Matplotlib and Plotly
-- 🌱 I’m currently learning to create weather charts
-- 💞️ I’m looking to collaborate on data mining of climatic information
-- 📫 How to reach me 
+- 👀 I’m interested in data visualization using Matplotlib and Plotly and web development with Django and Apache.
+- 🌱 I’m currently learning to create a budgeting web app that allows easy logs of daily expenses.
+- 💞️ I’m looking to collaborate on investment analysis tools and loan management systems. 
+- 📫 How to reach me gachogubackup@gmail.com.
 
 <!---
 hodikodi/hodikodi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
